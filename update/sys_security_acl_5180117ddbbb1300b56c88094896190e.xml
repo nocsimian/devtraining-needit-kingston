@@ -5,22 +5,22 @@
         <admin_overrides>true</admin_overrides>
         <advanced>false</advanced>
         <condition/>
-        <description>Default access control on x_58872_needit_test_label</description>
-        <name>x_58872_needit_test_label</name>
-        <operation display_value="read">read</operation>
+        <description>Default access control on x_58872_needit_needit</description>
+        <name>x_58872_needit_needit</name>
+        <operation display_value="write">write</operation>
         <script/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-08-08 05:59:34</sys_created_on>
-        <sys_id>c9bf816ddb731300b56c8809489619b2</sys_id>
+        <sys_created_on>2018-08-09 00:41:37</sys_created_on>
+        <sys_id>5180117ddbbb1300b56c88094896190e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_58872_needit_test_label</sys_name>
+        <sys_name>x_58872_needit_needit</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_security_acl_c9bf816ddb731300b56c8809489619b2</sys_update_name>
+        <sys_update_name>sys_security_acl_5180117ddbbb1300b56c88094896190e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-08 05:59:34</sys_updated_on>
+        <sys_updated_on>2018-08-09 00:41:37</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>

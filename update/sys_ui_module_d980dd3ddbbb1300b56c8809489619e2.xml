@@ -2,28 +2,28 @@
 <record_update sys_domain="global" table="sys_ui_module">
     <sys_ui_module action="INSERT_OR_UPDATE">
         <active>true</active>
-        <application display_value="Test_label">05bf816ddb731300b56c880948961998</application>
+        <application display_value="Needit">dd80dd3ddbbb1300b56c8809489619e0</application>
         <filter/>
-        <name>Test_labels</name>
+        <name>Needits</name>
         <order/>
         <path/>
         <path_relative_to_root>false</path_relative_to_root>
-        <roles>x_58872_needit.test_label_user</roles>
+        <roles>x_58872_needit.needit_user</roles>
         <sys_class_name>sys_ui_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-08-08 05:59:34</sys_created_on>
+        <sys_created_on>2018-08-09 00:41:37</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>8dbf816ddb731300b56c8809489619a6</sys_id>
+        <sys_id>d980dd3ddbbb1300b56c8809489619e2</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Test_labels</sys_name>
+        <sys_name>Needits</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
-        <sys_update_name>sys_ui_module_8dbf816ddb731300b56c8809489619a6</sys_update_name>
+        <sys_update_name>sys_ui_module_d980dd3ddbbb1300b56c8809489619e2</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-08-08 05:59:34</sys_updated_on>
-        <table>x_58872_needit_test_label</table>
+        <sys_updated_on>2018-08-09 00:41:37</sys_updated_on>
+        <table>x_58872_needit_needit</table>
         <uncancelable>false</uncancelable>
         <view_name/>
     </sys_ui_module>
