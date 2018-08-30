@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <description/>
+        <label_cache>[{"name":"45aa6d1d-7886-4969-92e3-0cd3116ba0ff.property_value","label":"1➛property_value","reference_display":"property_value"},{"name":"4e3427a2-d879-4a92-86a3-b92b58206785.calculated_date","label":"2➛calculated_date","reference_display":"calculated_date"},{"name":"34547946-bb52-4a8a-a665-d14227942138.Record","label":"3➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Record"},{"name":"34547946-bb52-4a8a-a665-d14227942138.Table","label":"3➛NeedIt Task Table","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Table"},{"name":"2983d745-e8fc-4692-9dae-0bf22fde4c9b.record.number","label":"4.1➛NeedIt Task Record➛Number","reference":"","reference_display":"Number","type":"string","base_type":"string","parent_table_name":"x_58872_needit_needit_task","column_name":"number"},{"name":"2983d745-e8fc-4692-9dae-0bf22fde4c9b.record.due_date","label":"4.1➛NeedIt Task Record➛Due date","reference":"","reference_display":"Due date","type":"glide_date_time","base_type":"glide_date_time","parent_table_name":"x_58872_needit_needit_task","column_name":"due_date"},{"name":"b9a3702f-4be8-4c38-bf3b-91fbd01048dc.item","label":"4➛Item","reference_display":"Item"},{"name":"2983d745-e8fc-4692-9dae-0bf22fde4c9b.record","label":"4.1➛NeedIt Task Record","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Record"},{"name":"2983d745-e8fc-4692-9dae-0bf22fde4c9b.table_name","label":"4.1➛NeedIt Task Table","reference":"x_58872_needit_needit_task","reference_display":"NeedIt Task Table"},{"name":"023ee82c-f04b-4de7-b0b1-08dc9c0afb8c.property_value","label":"1➛property_value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <name>Find and Close Long OverDue tasks</name>
+        <remote_trigger_id/>
+        <show_draft_actions>false</show_draft_actions>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-29 23:54:04</sys_created_on>
+        <sys_id>e90f8d60db502300b56c88094896191a</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Find and Close Long OverDue tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_hub_flow_e90f8d60db502300b56c88094896191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-30 00:15:29</sys_updated_on>
+    </sys_hub_flow>
+</record_update>
